@@ -134,9 +134,10 @@ Aspiring AI Engineer
 
 AFTER SAVE 
 
-Run these commands:
+# Run these commands:
 
 ```bash
 git add .
 git commit -m "Updated professional README"
 git push
+```
